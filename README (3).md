@@ -2,7 +2,7 @@
 
 *A step-by-step guide for GIS and remote sensing users, with Python and rasterio*
 
-Multispectral remote sensing images often come as one file per band. Many analyses, and all deep learning models, need these bands in a single file, in a fixed order. This guide follows the five parts of the [notebook](Stack.ipynb), in the same order.
+Multispectral remote sensing images often come as one file per band. Many analyses, and all deep learning models, need these bands in a single file, in a fixed order. This guide follows the five parts of the notebook, in the same order.
 
 The method works for any multispectral image with one raster per band, from a satellite or a drone. The example results come from a MicaSense Altum drone flight over a wheat field (blue, green, red, red edge and near infrared). Notes in each step explain what changes for satellite images.
 
