@@ -69,10 +69,6 @@ To save time, the notebook reads the image 10 times smaller in each direction. I
 
 > **ArcGIS equivalent:** the Spectral Profile chart in ArcGIS Pro (Image Analyst), here for the whole field.
 
-![Spectral profile of the example field](images/spectral_profile.png)
-
-*Figure 1. Spectral profile of the example field (mean ± 1 standard deviation).*
-
 The curve has the typical shape of vegetation:
 
 | Band | Mean | Std. dev. | What it shows                                      |
@@ -109,4 +105,4 @@ The stacked image is now ready for vegetation indices (NDVI, NDRE) or to be cut 
 
 ## Author
 
-Lise Olga Makonga, M.S. student in Geography and Geospatial Sciences, South Dakota State University
+Lise Olga Makonga, M.S. student in Geography and Geospatial Sciences.
